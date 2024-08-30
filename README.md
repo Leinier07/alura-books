@@ -70,7 +70,7 @@ Ao final do curso realizamos testes de usabilidade, responsividade multi telas e
 <br>
 ---
 
-Feito ❤️‍ by Leinier07 😁:wave: 
+Feito por Leinier07 
 <br>
 
     
