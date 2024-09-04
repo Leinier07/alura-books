@@ -1,4 +1,3 @@
-
 <h1 align="center"> Projeto Alura Books</h1>
 
 <p align="center">
@@ -20,7 +19,7 @@ Este é o 3º projeto desenvolvido que faz parte da Formação Front End da Plat
 <br>
 
   <div align="center">
-    <a target="_blank" href="https://Leinier07.github.io/alura-books/">
+    <a target="_blank" href="https://robertojunnior.github.io/alura-books/">
     <img width="90%" src="img/projeto-figma.png" alt="alura-books">
     </a>
   </div>
@@ -59,7 +58,7 @@ Como uma de minhas telas que utilizo é a do notebook de 15.6" com resolução H
 
 Ao final do curso realizamos testes de usabilidade, responsividade multi telas e na folha de estilo "header.css", classe ".lista__menu", adicionei um "z-index: 2" devido ela estar aparecendo sob o "pagination" do primeiro carrossel no "Mobile", zerando qualquer "bug" visual no projeto.<br>
 
-<br>Para visualizar a versão atual do projeto é só<a href="https://Leinier07.github.io/alura-books/"> "Clicar aqui".</a>🚀
+<br>Para visualizar a versão atual do projeto é só<a href="https://robertojunnior.github.io/alura-books/"> "Clicar aqui".</a>🚀
 
 ## 🔖 Layout
 🖼️ Este projeto no FIGMA foi desenvolvido por ALURA.<br>
@@ -70,8 +69,8 @@ Ao final do curso realizamos testes de usabilidade, responsividade multi telas e
 <br>
 ---
 
-Feito por Leinier07 
-<br>
+Feito ❤️‍ by Roberto Junior 😁:wave: 
+<br>🧑‍🚀[Inscreva-se no canal do YouTube da Alura!](https://www.youtube.com/@Alura)
 
     
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "Follow" que retribuo, podemos nos conectar para trocas de ideias e novos projetos.
