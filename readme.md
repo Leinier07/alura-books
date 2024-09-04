@@ -19,7 +19,7 @@ Este é o 3º projeto desenvolvido que faz parte da Formação Front End da Plat
 <br>
 
   <div align="center">
-    <a target="_blank" href="https://robertojunnior.github.io/alura-books/">
+    <a target="_blank" href="https://Leinier07.github.io/alura-books/">
     <img width="90%" src="img/projeto-figma.png" alt="alura-books">
     </a>
   </div>
