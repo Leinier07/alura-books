@@ -58,7 +58,7 @@ Como uma de minhas telas que utilizo é a do notebook de 15.6" com resolução H
 
 Ao final do curso realizamos testes de usabilidade, responsividade multi telas e na folha de estilo "header.css", classe ".lista__menu", adicionei um "z-index: 2" devido ela estar aparecendo sob o "pagination" do primeiro carrossel no "Mobile", zerando qualquer "bug" visual no projeto.<br>
 
-<br>Para visualizar a versão atual do projeto é só<a href="https://github.com/Leinier07/alura-books/blob/main/index.html".</a>🚀
+<br>Para visualizar a versão atual do projeto é só<a href="file:///tmp/guest-nw4iqe/%C3%81rea%20de%20Trabalho/index.html".</a>🚀
 
 ## 🔖 Layout
 🖼️ Este projeto no FIGMA foi desenvolvido por ALURA.<br>
